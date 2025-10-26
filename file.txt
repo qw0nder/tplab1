@@ -1,0 +1,7 @@
+1
+Car
+ferrari
+488
+5
+red
+MT
